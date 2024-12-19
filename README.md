@@ -1,11 +1,13 @@
 Title:
 FutureCart: AI-Driven Demand Predic5on for Smarter Retail
+
 Project Statement:
 In the realm of E-Commerce, demand forecas5ng plays a pivotal role in ensuring business
 success. This project aims to develop a demand forecas5ng model in an E-commerce business
 that predicts future product demand leveraging 5me series analysis and mul5variate regression
 based on historical sales data, along with Google Analy5cs KPIs such as Google clicks and
 Facebook impressions, which are valuable indicators of customer interest.
+
 Key Outcomes:
 1.Accurate Demand Forecasting: The primary goal of the project is to develop an accurate demand forecasting model that helps predict future product demand based on historical sales data, Google Analytics KPIs, and Facebook impressions.
 2.Improved Business Decision-Making: The model provides actionable insights for inventory management, pricing strategies, and marketing campaign optimization by predicting demand patterns accurately.
