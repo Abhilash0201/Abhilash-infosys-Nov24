@@ -15,6 +15,7 @@ Key Outcomes:
 4.Efficient Resource Allocation: By forecasting demand, businesses can allocate resources (e.g., stock, personnel) more effectively, minimizing stockouts and overstock situations
 
 Modules:
+
 Module 1: Data Collection
 Understand the problem statement and collect historical sales data, Google Analytics KPIs (Google clicks), and Facebook impressions to serve as predictors.
 
