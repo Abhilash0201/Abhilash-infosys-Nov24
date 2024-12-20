@@ -41,3 +41,6 @@ Sub Module 6.2: Model Evaluation – Assess the model using metrics like Adjuste
 
 Module 7: Model Selection & Forecasting
 Perform a comparative analysis of different models based on test data, select the best-performing model, and generate forecasts for future periods
+
+
+MAIL : abhilash99595@gmail.com
